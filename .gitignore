@@ -74,6 +74,13 @@ sysinfo.txt
 # Mono auto generated files
 mono_crash.*
 
+# macOS system files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
 # Builds
 *.apk
 *.aab
